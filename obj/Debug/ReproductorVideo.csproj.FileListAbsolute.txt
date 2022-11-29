@@ -1,0 +1,15 @@
+C:\Users\domin\source\repos\ReproductorVideo\bin\Debug\ReproductorVideo.exe.config
+C:\Users\domin\source\repos\ReproductorVideo\bin\Debug\ReproductorVideo.exe
+C:\Users\domin\source\repos\ReproductorVideo\bin\Debug\ReproductorVideo.pdb
+C:\Users\domin\source\repos\ReproductorVideo\bin\Debug\Interop.WMPLib.dll
+C:\Users\domin\source\repos\ReproductorVideo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\Interop.WMPLib.dll
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.ResolveComReference.cache
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\ReproductorVideo.Properties.Resources.resources
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.GenerateResource.cache
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\ReproductorVideo.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\ReproductorVideo.exe
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\ReproductorVideo.pdb
+C:\Users\domin\source\repos\ReproductorVideo\obj\Debug\ReproductorVideo.KYFA.resources
